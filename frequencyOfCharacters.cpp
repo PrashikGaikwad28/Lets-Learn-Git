@@ -29,5 +29,5 @@ void frequencyOfCharacters(string input){
 int main(){
     string input;
     cin>>input;
-    frequencyOfCharacters(input);
+    frequencyOfCharacters(input);	//Prashik
 }
